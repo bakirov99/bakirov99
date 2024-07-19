@@ -3,4 +3,6 @@
 - I'm a backend developer. 
 - I usually use flask or django frameworks
 
-- location: Uzbekistan, Ferghana
+<br>
+<b>Location: Uzbekistan, Ferghana</b><br>
+<b>Addres mail: btimur.mail@gmail.com</b>
