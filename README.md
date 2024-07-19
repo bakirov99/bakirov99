@@ -1,1 +1,1 @@
-## Hi there. My name's Timur. <img src='https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExODZuamR4OTM0YzVuZzJ5ejgxdGk0Nnc4bDA1NDR4cTg4bGszazNibyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1IB22SuYeEMMPTguL/giphy.webp'>
+## Hi there. My name's Timur. 
