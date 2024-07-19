@@ -1,3 +1,4 @@
 ## Hi there. My name's Timur. 
 
-I'm a backend developer. 
+- I'm a backend developer. 
+- I usually use flask or django frameworks 
